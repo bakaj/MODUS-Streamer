@@ -3,7 +3,7 @@ This is a Max4Live online collaboration tool that enables to send audiosignals l
 Currently it only works on MacOS due to file locking in Windows. This plugin is in it's very early stage!
 
 ## Framework
-The basic concept is to record a portion and save it. An external file syncronisation tool such as [Resilio Sync](https://www.resilio.com/individuals/) will take care of the filetransfer over.
+The basic concept is to record a portion and save it. An external file syncronisation tool such as [Resilio Sync](https://www.resilio.com/individuals/) will take care of the filetransfer.
 
 In order to be in sync it recommended to use Ableton Link in combination with a VPN connection. [Hamachi](https://www.vpn.net/) is recommended.
 
